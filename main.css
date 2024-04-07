@@ -23,10 +23,10 @@ body {
 }
 
 #belt {
-  height: 97vmin;
-  width: 97vmin;
+  height: 50vmin;
+  width: 50vmin;
   animation: spin 50s infinite linear;
-  margin-top: 50vmin;
+  margin-top: 75vmin;
 }
 
 @keyframes spin{
